@@ -1,0 +1,6 @@
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\bin\Debug\oddEvenSort.exe.config
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\bin\Debug\oddEvenSort.exe
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\bin\Debug\oddEvenSort.pdb
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\obj\Debug\oddEvenSort.csprojResolveAssemblyReference.cache
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\obj\Debug\oddEvenSort.exe
+c:\users\hhh broz\documents\visual studio 2015\Projects\oddEvenSort\oddEvenSort\obj\Debug\oddEvenSort.pdb
